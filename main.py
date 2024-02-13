@@ -1,3 +1,4 @@
+# This program record a student's attendance
 # Create image size = 216 x 216 
 
 import cv2
