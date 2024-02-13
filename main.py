@@ -1,4 +1,4 @@
-# This program record a student's attendance via face recognition
+# This program record a student's attendance via face recognition and firebase
 # Create image size = 216 x 216 
 
 import cv2
